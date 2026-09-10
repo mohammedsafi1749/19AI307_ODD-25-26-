@@ -42,7 +42,7 @@ To write a Java program that accepts a code number and determines the security l
  ```
 /*
 Program to implement a conditional statement using Java
-Developed by: Mohammed Safi F
+Developed by: MOHAMMED SAFI F
 RegisterNumber: 212224060156
 */
 ```
